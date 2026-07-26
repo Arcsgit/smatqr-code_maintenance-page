@@ -1,1 +1,1 @@
-# smatqr-code-_maintenance-page
+# SmartQR-Code - Maintenance Page
